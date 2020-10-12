@@ -124,7 +124,7 @@ iOSInjectionProject/
 /*.gcno
 
 ### Xcode Patch ###
-*.xcodeproj/*
+# *.xcodeproj/*
 # !*.xcodeproj/MobileDevelopment*.pbxproj
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
