@@ -125,7 +125,7 @@ iOSInjectionProject/
 
 ### Xcode Patch ###
 *.xcodeproj/*
-!*.xcodeproj/MobileDevelopment*.pbxproj
+# !*.xcodeproj/MobileDevelopment*.pbxproj
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
